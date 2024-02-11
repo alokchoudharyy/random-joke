@@ -1,0 +1,19 @@
+#joke{
+    background-color: black;
+    color  : white;
+    font-size: 1.5em;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+body{
+    width: 100%;
+    height:100% ;
+    background-color: darkgray;
+}
+p{
+    margin-left: 50px;
+    align-content: center;
+    align-items: center;
+    font-size: 50px;
+}
